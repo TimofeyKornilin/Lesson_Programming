@@ -4,8 +4,8 @@
 
 Console.WriteLine("     *** Start Program ***");
 
-int xa=27, ya=2,
-    xb=1, yb=28,
+int xa=58, ya=2,
+    xb=0, yb=28,
     xc=100, yc=28;
 
 int x = xa, y = xb;
